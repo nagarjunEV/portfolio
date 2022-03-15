@@ -1,4 +1,5 @@
 import React from 'react';
+import Link from 'next/link';
 
 import {
   Section,
@@ -13,10 +14,12 @@ const Hero = (props) => (
   <Section row nopadding>
     <LeftSection>
       <SectionTitle main center>
-        Hello World!
+        Hello, I'm Nagarjun
+        <br />
+        Enumudi Venkatesha!
       </SectionTitle>
       <SectionText>Lorem Ipsum</SectionText>
-      <Button>Learn More</Button>
+      {/* <Button></Button> */}
     </LeftSection>
   </Section>
 );
