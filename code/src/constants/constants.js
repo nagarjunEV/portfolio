@@ -59,15 +59,15 @@ export const TimeLineData = [
     text: 'Started my journey at Robert Bosch Engineering and Business Solutions Pvt Ltd (RBEI)',
   },
   {
-    year: `2018 - 2018`,
+    year: `2018`,
     text: 'Worked as a Test Automation Intern for 6 months at RBEI from Jan 2018 to Jun 2018',
   },
   {
-    year: `2018 - 2020`,
+    year: `2018`,
     text: 'Worked as Associate Software Developer at RBEI from Aug 2018 to Feb 2020',
   },
   {
-    year: `2020 - 2021`,
+    year: `2020`,
     text: 'Worked as Senior Software Developer at RBEI from Mar 2020 to Jul 2021',
   },
 ];
