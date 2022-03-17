@@ -40,11 +40,11 @@ const Projects = () => (
         }) => (
           <BlogCard key={id}>
             <TitleContent>
-              <HeaderThree title>{title}</HeaderThree>
-              <HeaderFive title> {role}</HeaderFive>
+              <HeaderThree title="true">{title}</HeaderThree>
+              <HeaderFive title="true"> {role}</HeaderFive>
             </TitleContent>
             <Hr />
-            <HeaderFive title> {experience}</HeaderFive>
+            <HeaderFive title="true"> {experience}</HeaderFive>
             <HeaderFive> {company}</HeaderFive>
             <Hr />
             <CardInfo>{description}</CardInfo>
