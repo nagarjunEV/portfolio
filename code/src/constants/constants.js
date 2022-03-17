@@ -54,9 +54,20 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey' },
-  { year: 2018, text: 'Worked as a freelance developer' },
-  { year: 2019, text: 'Founded JavaScript Mastery' },
-  { year: 2020, text: 'Shared my projects with the world' },
-  { year: 2021, text: 'Started my own platform' },
+  {
+    year: 2018,
+    text: 'Started my journey at Robert Bosch Engineering and Business Solutions Pvt Ltd (RBEI)',
+  },
+  {
+    year: `2018 - 2018`,
+    text: 'Worked as a Test Automation Intern for 6 months at RBEI from Jan 2018 to Jun 2018',
+  },
+  {
+    year: `2018 - 2020`,
+    text: 'Worked as Associate Software Developer at RBEI from Aug 2018 to Feb 2020',
+  },
+  {
+    year: `2020 - 2021`,
+    text: 'Worked as Senior Software Developer at RBEI from Mar 2020 to Jul 2021',
+  },
 ];

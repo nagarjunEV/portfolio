@@ -33,7 +33,7 @@ const Technologies = () => (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experience in <br />
-            React.js, Redux
+            React.js, Redux, and Angular 6
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -43,7 +43,7 @@ const Technologies = () => (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience in <br />
-            Spring Boot
+            Java and Spring Boot
           </ListParagraph>
         </ListContainer>
       </ListItem>
