@@ -10,7 +10,7 @@ import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 const data = [
   {
     number: 1,
-    text: 'Star Performer (EAA Rathna) “One Time Achievement” award by Robert Bosch (RBEI/EAA)',
+    text: 'Star Performer “One Time Achievement” (EAA Rathna) award by Robert Bosch (RBEI/EAA)',
   },
   {
     number: 2,

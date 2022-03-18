@@ -26,7 +26,12 @@ const Technologies = () => (
     <SectionDivider />
     <br />
     <SectionTitle>Technologies</SectionTitle>
-    <SectionText>Lorem ipsum</SectionText>
+    <SectionText>
+      I have worked as Full Stack Web developer for 3+ years.
+      <br />
+      My professional experience has given me the ability to solve intriguing
+      real-world problems at an industrial scale.
+    </SectionText>
     <List>
       <ListItem>
         <DiReact size="3rem" />
